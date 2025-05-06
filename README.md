@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello there 👋
 
 I'm a Master's graduate in **Information Technology** with strong practical experience in full-stack web development.  
 My main focus is on **JavaScript** and **React**, where I bring clean, scalable, and maintainable code to life — both in the frontend and backend.
@@ -39,11 +39,15 @@ My main focus is on **JavaScript** and **React**, where I bring clean, scalable,
 
 ### 🗄️ Databases  
 <p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" />
+
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
 </p>
 
+- MongoDB (using Mongoose ODM)
 - MySQL  
 - PostgreSQL  
 - Microsoft SQL Server (MSSQL)
