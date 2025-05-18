@@ -69,6 +69,17 @@ My main focus is on **JavaScript** and **React**, where I bring clean, scalable,
 
 ---
 
+### 🧪 Testing
+<p> 
+  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" /> 
+  <img src="https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B" alt="Vitest" /> 
+</p>
+
+- Jest: Utilized for unit and integration testing in JavaScript and React applications.
+- Vitest: Employed for fast and reliable unit tests, particularly in Vite-based projects.
+
+---
+
 ## 🚀 What I'm Currently Working On
 
 I'm currently focused on building high-quality web applications using **React** and **JavaScript**, with a strong emphasis on:
